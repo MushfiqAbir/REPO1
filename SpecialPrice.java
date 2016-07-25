@@ -2,6 +2,7 @@
 /*This code was generated using the UMPLE 1.24.0-ec89fde modeling language!*/
 package lab2;
 // new message 1
+// new message 2
 
 
 /**
